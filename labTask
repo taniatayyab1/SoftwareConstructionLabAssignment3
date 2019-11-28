@@ -1,7 +1,10 @@
-var name = TaniaTayyab;
-var regNo = SP17-BSE-096;
-var section = 6B;
-var contact = 0123456789;
-var address = strada consortile no.14, Collecchio, Italy;
-var university = COMSATS University, Islamabad; // new line added.
+ name = TaniaTayyab;
+ regNo = SP17-BSE-096;
+ section = 6B;
+ contact = 0123456789;
+ address = strada consortile no.14, Collecchio, Italy;
+ university = COMSATS University, Islamabad; // new line added.
+ from = Pakistan
+ religion = Islam
+
 
